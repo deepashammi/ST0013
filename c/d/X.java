@@ -1,4 +1,4 @@
-package a.b;
+package c.d;
 
 public class X {
     public void y() {
